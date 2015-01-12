@@ -1,5 +1,5 @@
-# predmachlearn-assignment
-Coursera Practical Machine Learning Assignment
+# Coursera Practical Machine Learning Assignment
+predmachlearn-assignment
 
 Practical Machine Learning
 https://class.coursera.org/predmachlearn-010
